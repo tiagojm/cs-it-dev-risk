@@ -1,7 +1,5 @@
 ﻿using CSQuestion.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CSQuestion.Models
 {

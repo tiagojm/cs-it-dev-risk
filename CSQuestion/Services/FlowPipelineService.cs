@@ -1,6 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using CSQuestion.Models;
+using System.Collections.Generic;
 
-namespace CSQuestion.Models
+namespace CSQuestion.Services
 {
     public class FlowPipelineService
     {

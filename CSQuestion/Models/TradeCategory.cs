@@ -43,7 +43,7 @@ namespace CSQuestion.Models
             }
             else
             {
-                throw new ArgumentException("Object is not a CategoryTrade");
+                throw new ArgumentException("Object is not a TradeCategory");
             }
         }
     }
